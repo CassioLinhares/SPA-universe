@@ -41,6 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-![SPA-UNIVERSE](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate?node-id=104%3A48)
+![SPA-UNIVERSE]([https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate?node-id=104%3A48](https://www.figma.com/file/wisw3WZH4GJ0zGMEoyomos/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=2%3A2&t=xyTdWWEwaJiXOGqD-0))
 
 
