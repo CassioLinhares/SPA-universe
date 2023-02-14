@@ -41,6 +41,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-![SPA-UNIVERSE]([https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate?node-id=104%3A48](https://www.figma.com/file/wisw3WZH4GJ0zGMEoyomos/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?node-id=2%3A2&t=xyTdWWEwaJiXOGqD-0))
+🌎 **Result Preview: [Veja o Projeto]([universe-spa.netlify.app](https://universe-spa.netlify.app/))**
 
+☑️ **Task:** Desenvolver uma aplicação com várias funcionalidades, [Figma](https://www.figma.com/file/R8BDkMvTiin6yQA6O0SeXw/Desafios-Explorer-SPA-Universe-Copy).
+
+"### Informações
+
+💻 **Rodar na sua máquina:**
+Com o <a href="https://nodejs.org/en/"> Node.Js</a> instalado em sua máquina.
+Após ter baixado o seu projeto na sua máquina abra o seu editor de código da sua preferência, logo em seguida abra o terminal dentro do seu editor de código e rode o seguinte comando:
+
+
+```bash
+# Install the dependencies
+$ npm install lite-server"
+https://raw.githubusercontent.com/ViniciusOliver-stack/Rocketseat-Explorer/main/projeto-07/README.md#:~:text=%23%23%23%20Informa%C3%A7%C3%B5es%0A%F0%9F%93%85%20**18.09.2022**%0A%0A%F0%9F%95%9B%20**Status,install%20lite%2Dserver
 
