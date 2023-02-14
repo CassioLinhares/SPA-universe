@@ -22,10 +22,10 @@ ou bibliotecas como React. A proposta da aplicação é renderizar as páginas '
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-![HTML]
-![CSS]
-![JavaScript]
-![Node.js]
+- HTML
+- CSS
+- JAVASCRIPT
+- NODE.JS
 
 ## 💻 Projeto
 
