@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+
+    --ff-body: 'Roboto', sans-serif;
+
+    --fc-nav: #C4C4CC;
+    --fc-navSelected: #fff;
+    --fc-main: #E1E1E6;
+    --fc-btnHome: #fff;
+    --fc-btnHomeOutline: #fff;
+    --fc-btnHomeSelected: #02799D;
+
+    --bg-btnHomeSelected: #fff;
+    --bg-img: url(assets/mountains-universe-1.png);
+}
+
+.imgHome{
+    --bg-img: url(assets/mountains-universe-1.png);
+}
+
+.imgUniverse{
+    --bg-img: url(assets/mountains-universe02.png);
+}
+
+.imgExplorer{
+    --bg-img: url(assets/mountains-universe-3.png);
+}
+
+body {
+    font-family: var(--ff-body);
+    min-height: 100vh;
+    display: grid;
+    background-image: var(--bg-img); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
+
+header {
+    display: flex;
+    max-height: 12.2rem;
+    margin-left: 7.2rem;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 3.2rem;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 2.2rem;
+    line-height: 2.2rem;
+    color: var(--fc-nav);
+    background-color: transparent;
+}
+
+nav a:hover{
+    cursor: pointer;
+    /* opacity: 0.9; */
+}
+
+.on {
+    color: var(--fc-navSelected);
+    font-weight: 700;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 4.8rem;
+    line-height: 125%;
+    color: var(--fc-main);
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.4rem;
+}
+
+.home Button {
+    border: .2rem solid var(--fc-btnHomeOutline);
+    border-radius: .5rem;
+    padding: 1.2rem 3.2rem;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    color: var(--fc-btnHome);
+    text-transform: uppercase;
+}
+
+.home button:hover {
+    cursor: pointer;
+    color: var(--fc-btnHomeSelected);
+    background-color: var(--bg-btnHomeSelected);
+}
+
+.universe,
+.explorer,
+.error{
+    max-width: 64.8rem;
+    margin: auto auto 10rem 10.2rem;
+}
+
+.universe p,
+.explorer p,
+.error p{
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 160%;
+    color: var(--fc-main);
+    margin-top: 1.6rem;
+}
+
+
+
